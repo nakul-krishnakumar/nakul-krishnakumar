@@ -14,6 +14,8 @@
 - 🔭 I’m currently working on [Talkio](https://github.com/nakul-krishnakumar/talkio)
 
 - 🌱 I’m currently learning **GO, Redis, Kafka**
+  
+- ⚒️ Machine Learning Enthusiast 
 
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS,**
 
