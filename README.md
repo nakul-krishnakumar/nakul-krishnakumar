@@ -8,8 +8,12 @@
   <img src="https://github.com/nakul-krishnakumar/nakul-krishnakumar/blob/main/dfvdbzc-ea86506e-08ec-4ce6-92c7-32ea7f5189f6.gif"/>
 </div>
 
-<h1 align="center" style>Hi 👋, I'm Nakul Krishnakumar</h1>
+<h1 align="center" style>Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm Nakul Krishnakumar</h1>
 <h3 align="center">Software Engineer / Full-Stack Web Developer</h3>
+<br>
 
 - 🔭 I’m currently working on [Talkio](https://github.com/nakul-krishnakumar/talkio)
 
@@ -20,6 +24,7 @@
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS,**
 
 - 📫 How to reach me **nakulkrishnakumar86@gmail.com**
+
 <br>
 
 <h2 align="center">🌐 Socials:</h2> 
