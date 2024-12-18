@@ -101,9 +101,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
   <img width="12" />
