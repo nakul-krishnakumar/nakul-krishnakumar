@@ -15,7 +15,7 @@
 <h3 align="center">Software Engineer / Full-Stack Web Developer</h3>
 <br>
 
-- 🔭 I’m currently working on [Talkio](https://github.com/nakul-krishnakumar/talkio)
+- 🔭 I’m currently working on [GrowBase](https://github.com/nakul-krishnakumar/grow-base)
 
 - 🌱 I’m currently learning **GO, Redis, Kafka**
   
