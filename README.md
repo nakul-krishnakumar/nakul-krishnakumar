@@ -21,7 +21,7 @@
   
 - ⚒️ Machine Learning Enthusiast 
 
-- 💬 Ask me about **ReactJS, NodeJS, ExpressJS,**
+- 💬 Ask me about **NextJS, ReactJS, NodeJS, ExpressJS,**
 
 - 📫 How to reach me **nakulkrishnakumar86@gmail.com**
 
