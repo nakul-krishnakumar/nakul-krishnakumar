@@ -1,6 +1,7 @@
 <div align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=nakul-krishnakumar&label=Profile%20Views&color=6&icon=1&pretty=false" />
+    <img src="https://komarev.com/ghpvc/?username=nakul-krishnakumar&style=flat&label=Views&abbreviated=true" />
   </a>
 </div>&nbsp;
 
@@ -145,3 +146,4 @@
 </div>
 
 
+![](https://hit.yhype.me/github/profile?account_id=93001503)
