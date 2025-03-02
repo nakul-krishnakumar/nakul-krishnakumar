@@ -16,7 +16,7 @@
 <h3 align="center">Software Engineer / Full-Stack Web Developer</h3>
 <br>
 
-- 🔭 I’m currently working on [GrowBase](https://github.com/nakul-krishnakumar/grow-base)
+- 🔭 I’m currently working on [Football Analysis System](https://github.com/nakul-krishnakumar/football-analysis-system)
 
 - 🌱 I’m currently learning **GO, Redis, Kafka**
   
