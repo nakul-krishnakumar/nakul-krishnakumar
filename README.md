@@ -13,7 +13,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I'm Nakul Krishnakumar</h1>
-<h3 align="center">Software Engineer / Full-Stack Web Developer</h3>
+<h3 align="center">Software Engineer / ML Engineer / Full-Stack Web Developer</h3>
 <br>
 
 - 🔭 I’m currently working on [Football Analysis System](https://github.com/nakul-krishnakumar/football-analysis-system)
