@@ -17,11 +17,11 @@
 
 - 🔭 I’m currently working on [Kaiyo AI](https://github.com/nakul-krishnakumar/kaiyo-ai)
 
-- 🌱 I’m currently learning **GO, Redis, Kafka**
+- 🌱 I’m currently learning **DevOps, Golang**
   
 - ⚒️ Machine Learning Enthusiast 
 
-- 💬 Ask me about **NextJS, ReactJS, NodeJS, ExpressJS,**
+- 💬 Ask me about **MERN, Golang, GenAI**
 
 - 📫 How to reach me **nakulkrishnakumar86@gmail.com**
 
