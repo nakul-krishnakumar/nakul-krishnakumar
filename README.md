@@ -15,7 +15,7 @@
 <h3 align="center">Software Engineer / ML Engineer / Full-Stack Web Developer</h3>
 <br>
 
-- 🔭 I’m currently working on [Football Analysis System](https://github.com/nakul-krishnakumar/football-analysis-system)
+- 🔭 I’m currently working on [Kaiyo AI](https://github.com/nakul-krishnakumar/kaiyo-ai)
 
 - 🌱 I’m currently learning **GO, Redis, Kafka**
   
