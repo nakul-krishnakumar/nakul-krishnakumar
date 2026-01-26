@@ -144,7 +144,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nakul-krishnakumar&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/india/nakul-krishnakumar.svg)](https://user-badge.committers.top/india/nakul-krishnakumar)
-
 ![](https://hit.yhype.me/github/profile?account_id=93001503)
 <!-- GitAds-Verify: V37ZHBW7OBE6BVHQHEBPJ9XUT4VFUOMA -->
