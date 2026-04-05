@@ -12,7 +12,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I'm Nakul Krishnakumar</h1>
-<h3 align="center">Software Engineer / ML Engineer / Full-Stack Web Developer</h3>
+<h3 align="center">Software Engineer / ML Engineer</h3>
 <br>
 
 - 🔭 I’m currently working on [Kaiyo AI](https://github.com/nakul-krishnakumar/kaiyo-ai)
@@ -22,6 +22,8 @@
 - ⚒️ Machine Learning Enthusiast 
 
 - 💬 Ask me about **MERN, Golang, GenAI**
+
+- 🌎 Open source Contributor [@stdlib](https://github.com/stdlib-js/stdlib)
 
 - 📫 How to reach me **nakulkrishnakumar86@gmail.com**
 
