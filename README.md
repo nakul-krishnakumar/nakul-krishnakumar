@@ -15,8 +15,6 @@
 <h3 align="center">Software Engineer / ML Engineer</h3>
 <br>
 
-- 🔭 I’m currently working on [Kaiyo AI](https://github.com/nakul-krishnakumar/kaiyo-ai)
-
 - 🌱 I’m currently learning **DevOps, Golang**
   
 - ⚒️ Machine Learning Enthusiast 
